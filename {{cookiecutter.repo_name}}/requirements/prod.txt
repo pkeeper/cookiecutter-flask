@@ -8,8 +8,9 @@ Jinja2==2.7
 itsdangerous==0.23
 
 # Database
-Flask-SQLAlchemy==1.0
-SQLAlchemy==0.8.2
+#Flask-SQLAlchemy==1.0
+#SQLAlchemy==0.8.2
+Flask-PyMongo==0.1.4
 
 # Forms
 Flask-WTF==0.9.2
